@@ -8,6 +8,7 @@ Get the app itself:
 - **iOS: [App Store](https://apps.apple.com/us/app/bluesky-social/id6444370199)**
 - **Android: [Play Store](https://play.google.com/store/apps/details?id=xyz.blueskyweb.app)**
 
+
 ## Development Resources
 
 This is a [React Native](https://reactnative.dev/) application, written in the TypeScript programming language. It builds on the `atproto` TypeScript packages (like [`@atproto/api`](https://www.npmjs.com/package/@atproto/api)), code for which is also open source, but in [a different git repository](https://github.com/bluesky-social/atproto).
